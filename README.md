@@ -1,3 +1,3 @@
-| Reloaded Pool | Score  |
-|---------------|--------|
-| 21 exercises  | 66/100 |
+| Reloaded Pool | Score  | Status  |
+|---------------|--------|---------|
+| 21 exercises  | 66/100 | Failed  |
